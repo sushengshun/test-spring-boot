@@ -25,9 +25,9 @@ public class AModel implements BeanNameAware{
 	@Override
 	public void setBeanName(String name) {
 		// TODO Auto-generated method stub
-		System.out.println(name);
+		//System.out.println(name);
 
-		System.out.println(this.name+"-----");
+		//System.out.println(this.name+"-----");
 	}
 
 	

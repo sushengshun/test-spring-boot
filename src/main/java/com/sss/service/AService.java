@@ -13,8 +13,10 @@ public class AService implements InitializingBean {
 	@Override
 	public void afterPropertiesSet() throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("initBean");
+		//System.out.println("initBean");
 		
 	}
+
+
 
 }
